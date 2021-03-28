@@ -9,7 +9,7 @@ keywords:
 # Automating my Zettelbox and Wiki
 20210328183346
 
-extending the basics of [[20210328181358]] automating git push/pull with batch
+extending the basics of [[20210328181358]] automating git push/pull with batch on windows:
 
 ```bash
 echo "the cwd is %CD%"
@@ -38,4 +38,4 @@ push "zettlr close"
 exit
 ```
 
-## Sources
+ill probably add linux and macOS when I boot into the respective system.

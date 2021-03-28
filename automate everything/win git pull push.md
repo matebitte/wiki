@@ -10,7 +10,7 @@ keywords:
 # Automating Git push/pull with Batch
 20210328181358
 
-when the actual meaning of the commit isn’t that important as long as the repo is in sync
+when the actual meaning of the commit isn’t that important as long as the repo is in sync:
 
 ```bash
 git pull
@@ -19,8 +19,9 @@ git add .
 git commit -m "sync"
 git push
 ```
+*note that github uses “main” by default where gitlab is using “master” as default branch!*
 
-in case the .bat is usually called by another file and a paramter is passed, use this:
+In case the .bat is usually called by another file and a paramter is passed, use this:
 
 ```bash
 git pull
