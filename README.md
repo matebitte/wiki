@@ -8,11 +8,22 @@ Over time, I looked up, learned and created many things for various reasons or p
 
 View this as my part to kill (unintended) knowledge hierarchies :)
 
-<br>
-In case you are wondering WTF those numbers are: they are internal links used by zettlr.
-<br>
+### Privacy
+* [awesome-linux](./privacy/awesome-linux.md) | [[20210328220824]]
 
-## Language barriers
+### Selfhosting
+* 
+
+
+<details> <summary> Notes </summary>
+
+### internal
+In case you are wondering WTF those numbers are: they are internal links used by [zettlr](zettlr.com).
+
+
+### Languages
 My default will be english, but in case I accidentally wrote in German (*-de.md), im not going to spend time translating. Use [deepl](deepl.com).
 
 For my fellow germans: blabliblub-de.md zeigt dass die Datei auf Deutsch ist. Auch hier der Hinweis, dass [deepl](deepl.com) existiert.
+
+</details>
