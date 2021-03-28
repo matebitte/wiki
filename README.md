@@ -12,8 +12,8 @@ More importantly, I implemented certain things for some reason and id like to ma
 View this as my part to kill (unintended) knowledge hierarchies :)
 
 ### Automate everything
-* [Automating Git push/pull with Batch]("./automate everything/win git pull push.md")
-* [Automating my Zettelbox and Wiki]("./automate everything/zettlr + git.md")
+* [Automating Git push/pull with Batch](./automate%20everything/win_git-pull_git-push)
+* [Automating my Zettelbox and Wiki]("./automate%20everything/zettlr+git.md")
 * <!--* [](./automate everything/)-->
 
 ### Privacy

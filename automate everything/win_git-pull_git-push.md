@@ -1,5 +1,6 @@
 ---
 created: 2021-03-28
+title: "Automating Git push/pull with Batch"
 keywords:
   - guide
   - automation
