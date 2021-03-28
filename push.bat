@@ -1,5 +1,5 @@
 git pull
 git checkout main
 git add .
-git commit -am %1
+git commit -m %1
 git push
