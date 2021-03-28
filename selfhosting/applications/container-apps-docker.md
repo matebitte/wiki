@@ -1,4 +1,5 @@
 ---
+id: 20210328203541
 title: "Random linux server tips"
 created: 2021-01-14
 keywords:
@@ -6,7 +7,7 @@ keywords:
   - linux
 ---
 # Docker
-*Application containers* 20210328203541
+*Application containers* 
 
 Install: https://docs.docker.com/engine/install/ubuntu/
 DO NOT INSTALL FROM PACKAGE OR SCRIPT

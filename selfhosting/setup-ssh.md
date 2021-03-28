@@ -1,4 +1,5 @@
 ---
+id: 20210328202849
 title: "Setup SSH logins"
 created: 2021-01-14
 keywords:
@@ -6,7 +7,7 @@ keywords:
   - linux
 ---
 # Setup secure SSH logins
-zks-id: 20210328202849
+zks-id: 
 
 Dont use ssh-copy-id cause its actually quite messy 
 

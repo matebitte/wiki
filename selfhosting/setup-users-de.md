@@ -1,4 +1,5 @@
 ---
+id: 20210328202918
 title: "Setup users and root permissions"
 created: 2021-01-14
 keywords:
@@ -6,7 +7,7 @@ keywords:
   - linux
 ---
 # Users
-20210328202918
+
 
 - root user hat keine admin rechte
 - es gibt ein sudo account, jedoch nicht unter root/admin/klarnamen

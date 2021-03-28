@@ -1,4 +1,5 @@
 ---
+id: 20210328204734
 title: "Setup a reverse-proxy"
 created: 2021-01-14
 keywords:
@@ -7,7 +8,7 @@ keywords:
   - networking
 ---
 # Reverse proxy
-*The thing that makes app.domain.tld resolve to your application* 20210328204734
+*The thing that makes app.domain.tld resolve to your application* 
 
 there are a number of options like caddy, nginx and ofc apache.
 

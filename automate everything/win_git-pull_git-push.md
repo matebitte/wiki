@@ -1,4 +1,5 @@
 ---
+id: 20210328181358
 created: 2021-03-28
 title: "Automating Git push/pull with Batch"
 keywords:
@@ -9,7 +10,6 @@ keywords:
   - git
 ---
 # Automating Git push/pull with Batch
-zks-id: 20210328181358
 
 when the actual meaning of the commit isn’t that important as long as the repo is in sync:
 

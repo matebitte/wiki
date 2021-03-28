@@ -1,5 +1,6 @@
 ---
-title: "LXD Container"
+id: 20210328203320
+title: "LXD Containers"
 created: 2021-01-14
 keywords:
   - selfhosting
@@ -7,7 +8,7 @@ keywords:
   - containers
 ---
 # LXD
-*System containers* 20210328203320
+*System containers* 
 For docker application containers, goto [[20210328203541]] container-apps-docker
 
 ## Setup

@@ -1,4 +1,5 @@
 ---
+id: 20210328212752
 title: "Random linux server tips"
 created: 2021-01-14
 keywords:
@@ -6,7 +7,7 @@ keywords:
   - linux
 ---
 # Random tips
-*is should read up on those* 20210328212752
+*is should read up on those* 
 
 
 * Make Automatic updates via cron jobs

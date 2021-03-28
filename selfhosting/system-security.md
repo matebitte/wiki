@@ -1,4 +1,5 @@
 ---
+id: 20210328203150
 title: "Improve system security"
 created: 2021-01-14
 keywords:
@@ -7,7 +8,7 @@ keywords:
   - security
 ---
 # Improve your system security
-*Don't be a fucking idiot and then some* 20210328203150
+*Don't be a fucking idiot and then some* 
 
 make sure you [set up your ssh correctly](./setup-ssh.md)
 

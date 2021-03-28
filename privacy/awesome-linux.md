@@ -1,4 +1,5 @@
 ---
+id: 20210328220824
 created: 2021-01-19
 keywords:
   - awesome
@@ -6,7 +7,7 @@ keywords:
   - privacy
 ---
 # Awesome Linux
-20210328220824
+
 Id argue that most people could use linux and wouldnt miss any application at all.
 Moreover, I think after using linux for a while, youll miss it when you use windows.
 

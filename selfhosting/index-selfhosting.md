@@ -1,4 +1,5 @@
 ---
+id: 20210328205222
 title: "Selfhosting Index"
 created: 2021-03-28
 keywords:
@@ -7,7 +8,7 @@ keywords:
   - index
 ---
 # Selfhosting
-*...is absolutly rad* 20210328205222
+*...is absolutly rad* 
 
 First time server setup:
 * [[20210328202849]] [setup ssh](./setup-ssh.md)
