@@ -5,10 +5,6 @@ modified: 2021-03-28T18:53:51+02:00
 ---
 
 # Automating my Zettelbox and Wiki
-<<<<<<< HEAD
-=======
-
->>>>>>> 2392e81bdcb76538efa8bbb4fa74daf86e0ee131
 zks-id: 20210328183346
 
 extending the basics of automating git push/pull with batch (see [[win git pull push]] respectivly [[20210328181358]] Automating Git push/pull with Batch) on windows:
