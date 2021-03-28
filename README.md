@@ -1,1 +1,1 @@
-# open-knowledge
+# Wiki
