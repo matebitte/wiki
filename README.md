@@ -1,5 +1,5 @@
 ---
-modified: 2021-03-28T15:12:17+02:00
+modified: 2021-03-28T18:55:02+02:00
 ---
 
 # Wiki
@@ -8,6 +8,8 @@ Over time, I looked up, learned and created many things for various reasons or p
 
 View this as my part to kill (unintended) knowledge hierarchies :)
 
+<br>
+In case you are wondering WTF those numbers are: they are internal links used by zettlr.
 <br>
 
 ## Language barriers
