@@ -2,7 +2,7 @@
 id: 20210328212259
 created: 2021-03-28T00:00:00+01:00
 keywords: [guide, redundant, selfhosting, linux]
-modified: 2021-03-29T00:25:43+02:00
+modified: 2021-03-29T00:26:25+02:00
 ---
 
 # Sinnvolle services
@@ -25,4 +25,4 @@ Mehr dazu später.
 
 ## Warum kein eMail?
 Weil das scheiße aufwändig ist, schwer abzusichern, aufwändig zu betreuen und bei einem Domainumzug einfach nur noch komplett beschissen ist.
-Hoste keine mails selber. Wirklich. Hol dir lieber Protonmail, Tutanota, Mailfence oder Posteo je nachdem was du für features möchtest. Ein guide zu eMail providern findest du hier: (
+Hoste keine mails selber. Wirklich. Hol dir lieber Protonmail, Tutanota, Mailfence oder Posteo je nachdem was du für features möchtest. Ein guide zu eMail providern findest du hier: (../../privacy/
