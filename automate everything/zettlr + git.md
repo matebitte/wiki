@@ -1,13 +1,12 @@
 ---
-created: 2021-03-28
-keywords:
-  - guide
-  - automation
-  - zettlr
-  - git
+created: 2021-03-28T00:00:00+01:00
+keywords: [guide, automation, zettlr, git]
+modified: 2021-03-28T18:53:51+02:00
 ---
+
 # Automating my Zettelbox and Wiki
-20210328183346
+
+zks-id: 20210328183346
 
 extending the basics of [[20210328181358]] automating git push/pull with batch on windows:
 
