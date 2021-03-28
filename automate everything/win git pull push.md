@@ -8,7 +8,7 @@ keywords:
   - git
 ---
 # Automating Git push/pull with Batch
-20210328181358
+zks-id: 20210328181358
 
 when the actual meaning of the commit isn’t that important as long as the repo is in sync:
 

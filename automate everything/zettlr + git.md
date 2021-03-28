@@ -7,9 +7,9 @@ keywords:
   - git
 ---
 # Automating my Zettelbox and Wiki
-20210328183346
+zks-id: 20210328183346
 
-extending the basics of [[20210328181358]] automating git push/pull with batch on windows:
+extending the basics of automating git push/pull with batch (see [[win git pull push]] respectivly [[20210328181358]] Automating Git push/pull with Batch) on windows:
 
 ```bash
 echo "the cwd is %CD%"
