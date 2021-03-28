@@ -1,3 +1,10 @@
+---
+title: "Setup users and root permissions"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+---
 # Users
 20210328202918
 

@@ -1,5 +1,15 @@
-# System security
+---
+title: "Improve system security"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+  - security
+---
+# Improve your system security
 *Don't be a fucking idiot and then some* 20210328203150
+
+make sure you [set up your ssh correctly](./setup-ssh.md)
 
 ## Fail2ban
 20210328203159

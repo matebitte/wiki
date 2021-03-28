@@ -1,3 +1,11 @@
+---
+title: "Setup a reverse-proxy"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+  - networking
+---
 # Reverse proxy
 *The thing that makes app.domain.tld resolve to your application* 20210328204734
 

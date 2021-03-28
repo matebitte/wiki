@@ -1,4 +1,11 @@
-# SSH
+---
+title: "Setup SSH logins"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+---
+# Setup secure SSH logins
 zks-id: 20210328202849
 
 Dont use ssh-copy-id cause its actually quite messy 

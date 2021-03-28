@@ -1,3 +1,10 @@
+---
+title: "Random linux server tips"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+---
 ## Zusätzliche Pakete
 20210328203107
 

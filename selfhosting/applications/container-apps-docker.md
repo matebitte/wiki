@@ -1,3 +1,10 @@
+---
+title: "Random linux server tips"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+---
 # Docker
 *Application containers* 20210328203541
 

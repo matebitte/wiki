@@ -1,3 +1,11 @@
+---
+title: "LXD Container"
+created: 2021-01-14
+keywords:
+  - selfhosting
+  - linux
+  - containers
+---
 # LXD
 *System containers* 20210328203320
 For docker application containers, goto [[20210328203541]] container-apps-docker

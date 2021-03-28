@@ -1,3 +1,11 @@
+---
+title: "Notizen aus einem Privatsphäre Workshop"
+created: 2021-01-19
+keywords:
+  - notes
+  - workshop
+  - privacy
+---
 # Notizen aus einem Privatsphäre Workshop
 20210328214843
 

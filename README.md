@@ -1,4 +1,5 @@
 ---
+title: "Wiki Index"
 modified: 2021-03-28T18:55:02+02:00
 ---
 
@@ -6,20 +7,30 @@ modified: 2021-03-28T18:55:02+02:00
 
 Over time, I looked up, learned and created many things for various reasons or projects.
 
+More importantly, I implemented certain things for some reason and id like to make the process as clear as possible to anyone who may ever have to maintain infrastructure set up by myself.
+
 View this as my part to kill (unintended) knowledge hierarchies :)
 
+### Automate everything
+* [Automating Git push/pull with Batch](./automate everything/win git pull push.md)
+* [Automating my Zettelbox and Wiki](./automate everything/zettlr + git.md)
+* <!--* [](./automate everything/)-->
+
 ### Privacy
-* [awesome-linux](./privacy/awesome-linux.md) | [[20210328220824]]
+* [awesome-linux](./privacy/awesome-linux.md) 
+* [privacy focussed eMail providers](./privacy/secure-email.md) 
+* [Notizen aus einem Privatsphäre Workshop](./privacy/privacy-workshop-de.md) 
 
 ### Selfhosting
-* 
+* [Selfhosting overview](./selfhosting/index-selfhosting.md)
+* [Containered apps with Docker](./selfhosting/applications/container-apps-docker.md)
 
+<br>
 
-<details> <summary> Notes </summary>
+<details> <summary> conventions </summary>
 
-### internal
+### internal links
 In case you are wondering WTF those numbers are: they are internal links used by [zettlr](zettlr.com).
-
 
 ### Languages
 My default will be english, but in case I accidentally wrote in German (*-de.md), im not going to spend time translating. Use [deepl](deepl.com).
