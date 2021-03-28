@@ -7,8 +7,9 @@ keywords:
   - git
 ---
 # Automating my Zettelbox and Wiki
+20210328183346
 
-extending the basics [[20210328181358]] automating git push/pull with batch
+extending the basics of [[20210328181358]] automating git push/pull with batch
 
 ```bash
 echo "the cwd is %CD%"
