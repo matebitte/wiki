@@ -1,5 +1,5 @@
 git pull
 git checkout master
 git add --all
-git commit -a -m %1
-git push
+git commit -am %1
+git push --all
