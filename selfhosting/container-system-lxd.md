@@ -7,6 +7,7 @@ keywords:
   - linux
   - containers
 ---
+
 # LXD
 *System containers* 
 For docker application containers, goto [[20210328203541]] container-apps-docker

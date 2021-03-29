@@ -6,7 +6,9 @@ keywords:
   - selfhosting
   - linux
   - security
+
 ---
+
 # Improve your system security
 *Don't be a fucking idiot and then some* 
 

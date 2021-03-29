@@ -6,6 +6,7 @@ keywords:
   - notes
   - workshop
   - privacy
+
 ---
 # Notizen aus einem Privatsphäre Workshop
 
