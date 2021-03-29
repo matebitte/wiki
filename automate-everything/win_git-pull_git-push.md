@@ -17,8 +17,8 @@ when the actual meaning of the commit isn’t that important as long as the repo
 ```bash
 git pull
 git checkout main
-git add .
-git commit -m "sync"
+git add -a
+git commit -am "sync"
 git push
 ```
 *note that github uses “main” by default where gitlab is using “master” as default branch!*
@@ -28,8 +28,8 @@ In case the .bat is usually called by another file and a paramter is passed, use
 ```bash
 git pull
 git checkout main
-git add .
-git commit -m %1
+git add -a
+git commit -am %1
 git push
 ```
 
