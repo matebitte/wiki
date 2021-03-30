@@ -7,7 +7,6 @@ keywords:
   - linux
 ---
 # Setup secure SSH logins
-zks-id: 
 
 Dont use ssh-copy-id cause its actually quite messy 
 
@@ -18,9 +17,9 @@ Genereate local SSH key pair
 Optional: Give it a **memorable** password
 
 Upload public key, name it something useful
-> $ scp ~/.ssh/id_rsa.pub [USER]@161.97.116.140:/home/[USER]/.ssh/[KEYNAME].pub
+> $ scp ~/.ssh/id_rsa.pub [USER]@161.82.126.102:/home/[USER]/.ssh/[KEYNAME].pub
 
-bsp: $ scp ~/.ssh/id_rsa.pub tobias@192.168.1.146:/home/tobias/.ssh/maelstrom-wsl.pub
+bsp: $ scp ~/.ssh/id_rsa.pub tobias@161.82.126.102:/home/guenter/.ssh/name-wsl.pub
 
 ## Server side
 Append key to authorized keys file
