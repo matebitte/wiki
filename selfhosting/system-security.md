@@ -39,7 +39,6 @@ make sure you [set up your ssh correctly](./setup-ssh.md)
 * 143 IMAP
 * 420 SSH
 * 443/tcp HTTPS
-* 8000 etebase / etesync
 
 
 ### Explizit Verboten (außer temporär zu dev-zwecken)
