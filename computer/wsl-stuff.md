@@ -2,7 +2,6 @@
 # WSL Workarounds
 
 ## Auto-Startup
-you need to run something with wsl, so why not do updates. Heres how:
 
 1. win+r, go to ```%AppData%\Microsoft\Windows\Start Menu\Programs\Startup```
 2. create the file wsl-start.vbe and add this:
