@@ -12,8 +12,6 @@ More importantly, I implemented certain things for some reason and id like to ma
 
 View this as my part to kill (unintended) knowledge hierarchies :)
 
-<br>
-
 ### Privacy
 * [Privacy overview](./privacy/privacy-index.md)
 * [awesome-linux](./privacy/awesome-linux.md) 
@@ -27,15 +25,15 @@ View this as my part to kill (unintended) knowledge hierarchies :)
 <br>
 
 ## Random Stuff
+### Automation / Scripting
+* [Automating Git push/pull with Batch](./automate-everything/win_git-pull_git-push)
+* [Automating my Zettelbox and Wiki](./automate-everything/zettlr+git.md)
+* <!--* [](./automate everything/)-->
+
 ### Computers
 * [Hackintosh Quickstart](./computer/hackintosh.md)
 * [Alt+F --> Win+W](./computer/win+w-close.md)
 * [WSL Workarounds](./computer/wsl-stuff.md)
-
-### Scripting / Automation
-* [Automating Git push/pull with Batch](./automate-everything/win_git-pull_git-push)
-* [Automating my Zettelbox and Wiki](./automate-everything/zettlr+git.md)
-* <!--* [](./automate everything/)-->
 
 <br><br>
 
