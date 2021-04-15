@@ -1,13 +1,17 @@
 
 # How to block FLoC on your website
 
+vv01f made me aware of the issue and told me to set the permission-policy header to block FLoC.
+
 The easiest way I found is to edit your .htaccess file and add this line:
+
 ````
 Header set Permission-Policy: interest-cohort=()
 ````
 
 <br>
-schweby pointed out that you can do that in nginx with: 
+
+stuebinm pointed out that you can do that in nginx with: 
 
 ```
 add_header Permissions-Policy "interest-cohort=()";
