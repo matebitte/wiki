@@ -1,7 +1,7 @@
 
 # How to block FLoC on your website
 
-The easies way i found is to edit your .htaccess file and add this line:
+The easiest way I found is to edit your .htaccess file and add this line:
 ````
 Header set Permission-Policy: interest-cohort=()
 ````
