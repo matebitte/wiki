@@ -7,6 +7,17 @@ Header set Permission-Policy: interest-cohort=()
 ````
 
 <br>
+schweby pointed out that you can do that in nginx with: 
+
+```
+add_header Permissions-Policy "interest-cohort=()";
+```
+
+<br>
+
+if you know of different circumstances that need different solutions, feel free to add them :)
+
+<br>
 
 ## Sources
 * https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea
