@@ -9,8 +9,8 @@ keywords:
 ---
 # Awesome Linux
 
-Id argue that most people could use linux and wouldnt miss any application at all.
-Moreover, I think after using linux for a while, youll miss it when you use windows.
+Id argue that most people could use Linux and wouldn't miss any application at all.
+Moreover, I think after using Linux for a while, youll miss it when you use windows.
 
 
 ## What is it

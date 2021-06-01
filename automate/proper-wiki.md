@@ -1,4 +1,4 @@
-# Markdown knowledge base
+# Building a Markdown knowledge base
 Ive got a pile of Markdown files id like to form into a working knowledge base without too much effort.
 
 ## Github pages and Jekyll themes
@@ -24,3 +24,5 @@ But, to be honest, all of them suck. Another alternative:
 * https://www.gatsbyjs.com/
 
 now that's much more flexibility, and even id I decide to stick with jekyll, the flexibility is much greater. Neat!
+
+But with some digging, i think I found the [holy grale](https://gatsby-project-kb.vercel.app/) with Gitlab pages + Gatsby.
