@@ -12,6 +12,8 @@ More importantly, I implemented certain things for some reason and id like to ma
 
 View this as my part to kill (unintended) knowledge hierarchies :)
 
+
+
 ### Privacy
 * [Privacy overview](./privacy/privacy-index.md)
 * [awesome-linux](./privacy/awesome-linux.md) 
