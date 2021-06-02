@@ -1,6 +1,7 @@
 ---
 title: "Wiki Index"
 modified: 2021-03-28T18:55:02+02:00
+layout: post
 
 ---
 
