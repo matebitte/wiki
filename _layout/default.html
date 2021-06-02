@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="today i decided to..." />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💭</text></svg>"
+    />
+    <link rel="stylesheet" href="https://decided.to/css/main.css" />
+    <link rel="stylesheet" href="https://decided.to/css/nav.css" />
+  </head>
+
+  <body>
+    <nav>
+      <a href="https://decided.to" id="left">[ DECIDED.TO ]</a>
+      <a> | </a>
+      <a href="https://write.decided.to">[ blog ]</a>
+      <a href="https://note.decided.to"><b>[ note ]</b></a>
+      <a href="/about">[ ? ]</a>
+    </nav>
+
+    {{ content }}
+
+    <footer>
+      (c) lenowac 2021 | <a href="/impressum">impressum</a> |
+      <a href="/impressum">datenschutz</a>
+    </footer>
+  </body>
+</html>
