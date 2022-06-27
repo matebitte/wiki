@@ -1,0 +1,42 @@
+/* obsidian  */
+:scope {
+  --light-1: #FDF0ED;
+  --light-2: #FADAD1;
+  --light-3: #F9CBBE;
+  --light-4: #F9CEC3;
+
+  --dark-0: #16161c;
+  --dark-1:  #1C1E26;
+  --dark-2:  #232530;
+  --dark-3:  #2E303E;
+  --dark-4:  #6C6F93;
+
+  --red:    #E95678;
+  --orange: #F09383;
+  --yellow: #FAC29A;
+  --green:  #25B2BC;
+  --purple: #B877DB;
+ 
+  --frost1: #6ce9bb;  --frost2: #6dd8da;  --frost3: #76dab5;  --frost4: #8bc3c4;
+}
+
+/* default theme light */
+body {
+  --kb-link-color: #E84A72;
+  --kb-tree-cur-color: var(--light-4);
+  --kb-font-family: 'Avenir', -apple-system, sans-serif;
+  --kb-shadow-bg: rgba(0, 0, 0, 0.2);
+  --kb-text-color: var(--dark-1);
+  --kb-text-inverse-color: var(--dark-2);
+  --kb-references-bg:  var(--light-2);
+  --kb-search-highlight-bg: var(--light-2);
+  --kb-note-bg: var(--bg-color-1);
+  --kb-separator-color: var(--light-4);
+  --kb-scrollbar-thumb: var(--orange);
+  --kb-blockquote-bg: var(--light-4);
+
+  --bg-color-1: var(--light-1);
+  --bg-color-2: var(--light-2);
+  --code-bg-color: var(--dark-4);
+  --code-color: var(--orange);
+}
